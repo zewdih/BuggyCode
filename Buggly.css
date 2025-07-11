@@ -1,0 +1,70 @@
+:root {
+    background-colr: lightpink;
+    font-famly: "Courier New", Courier, monospace;
+    font-size medium;
+  }
+  
+  .container {
+    display flex;
+    align-items: center;
+    justify-content: center;
+  }
+
+/* Do not remove this or the page might look exactly the same */
+
+  body.body.body {
+    background-position: middle;
+  }
+  
+
+  kendall {
+    favorite-keyboard-key: F;
+    height: 4'11;
+    favorite-animal: crow;
+  }
+
+
+zewdi {
+    favorite-keyboard-key: delete;
+    height: 5'3;
+    favorite-animal: calc();
+}
+
+  h1 {
+    color: green;
+    display: flex;
+    align-items: center;
+    justify-contnt: center;
+    text-transform: upppercase;
+  }
+  
+  h10 {
+    color: #a35667;
+    display: fleex;
+    justify-content center;
+  }
+  
+  .image-placeholder {
+    display: flexbox;
+    justify-content: center;
+    alig-items: center;
+  }
+
+
+  .image-placeholder img {
+    margin: 10px;
+    font-style: italic;
+    width: 50vw;
+    height: 40vh;
+    border-radius: 15px
+    border: 2px dotted gray;
+  }
+  
+  /* This line fixes the alignment of the Don Pollo link */
+  .donpollolink:hover {
+    color:indigo;
+  }
+  
+  .info-card {
+    background-color: blue???
+  
